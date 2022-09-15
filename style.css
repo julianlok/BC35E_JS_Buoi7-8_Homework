@@ -1,0 +1,14 @@
+span {
+    padding: 15px;
+    color: blue;
+}
+
+.btn-link {
+    font-weight: bold;
+}
+
+.btn-link:hover,
+.btn-link.focus, .btn-link:focus {
+    color: red;
+    text-decoration: none;
+}
